@@ -1,6 +1,6 @@
 # CS340
 
-# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+# How do you write programs that are maintainable, readable, and adaptable? What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 Creating programs that are maintainable, readable, and adaptable is crucial for the longevity and effectiveness of software projects. In Project One, I developed a CRUD Python module for interacting with a MongoDB database. This module followed key software development principles. It was designed with modularity in mind, providing separate functions for create, read, update, and delete operations. Each function had a specific purpose, making the code modular and easy to understand. I also incorporated documentation, adding comments and docstrings to explain the purpose and usage of each function. This enhanced the code's readability and allowed for a quick understanding of how to interact with the module. Robust error handling was another integral part of the module, gracefully managing exceptions, providing clear error messages, and ensuring adaptability to various scenarios.
 
